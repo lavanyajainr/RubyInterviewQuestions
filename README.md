@@ -62,3 +62,14 @@ Output:
 much.very.program.this.like.i
 mno.pqr
 ****************************************************************************
+3] bubbleSort.rb 
+
+ Sort the given array using Bubble sort method.
+
+Example:
+Input:
+[5,9,1,3,88,7]
+
+Output:
+[1,3,5,7,9,88]
+****************************************************************************
